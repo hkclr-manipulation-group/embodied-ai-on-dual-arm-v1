@@ -30,7 +30,7 @@ This project features **two parallel and complementary embodied intelligence pip
 
 ### 1. Vision–Language Model (VLM) Pipeline
 
-[![VLM Demo](assets/vlm_preview.png)](https://github.com/hkclr-manipulation-group/embodied-ai-on-dual-arm-v1/blob/main/videos/vlm.mp4)
+![VLM Demo](assets/vlm_preview.gif)
 
 The **VLM pipeline** focuses on **long-horizon, semantically guided tasks**, such as **desktop organization**.
 
@@ -41,7 +41,7 @@ This pipeline emphasizes **semantic understanding, task decomposition, and inter
 
 ### 2. Vision–Language–Action (VLA) Pipeline
 
-[![VLA Demo](assets/vla_preview.png)](https://github.com/hkclr-manipulation-group/embodied-ai-on-dual-arm-v1/blob/main/videos/vla.mp4)
+![VLA Demo](assets/vla_preview.gif)
 
 The **VLA pipeline** targets **dynamic object manipulation**, such as **real-time object grasping and interaction**.
 
