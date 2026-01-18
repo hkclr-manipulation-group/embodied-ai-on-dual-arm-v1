@@ -30,8 +30,13 @@ This project features **two parallel and complementary embodied intelligence pip
 
 ### 1. Vision–Language Model (VLM) Pipeline
 
-▶️ **Video:**  
-[videos/vlm.mp4](videos/vlm.mp4)
+<video src="videos/vlm.mp4"
+       controls
+       muted
+       loop
+       playsinline
+       style="max-width: 100%; border-radius: 8px;">
+</video>
 
 The **VLM pipeline** focuses on **long-horizon, semantically guided tasks**, such as **desktop organization**.
 
@@ -42,8 +47,13 @@ This pipeline emphasizes **semantic understanding, task decomposition, and inter
 
 ### 2. Vision–Language–Action (VLA) Pipeline
 
-▶️ **Video:**  
-[videos/vla.mp4](videos/vla.mp4)
+<video src="videos/vla.mp4"
+       controls
+       muted
+       loop
+       playsinline
+       style="max-width: 100%; border-radius: 8px;">
+</video>
 
 The **VLA pipeline** targets **dynamic object manipulation**, such as **real-time object grasping and interaction**.
 
