@@ -1,4 +1,4 @@
-# Embodied AI on Our Dual Arm System V1
+# Embodied AI on Dual Arm System V1
 
 **Embodied Intelligence** refers to intelligent systems that possess a physical body and acquire intelligence through **perception, action, and interaction with the environment**.  
 By tightly coupling embodiment with **Vision–Language Models (VLMs)**, robotic systems can understand high-level semantic instructions such as *“organize the workspace”* or *“assist a human operator”*, and autonomously decompose them into executable action sequences with coherent task-level planning.
@@ -30,12 +30,8 @@ This project features **two parallel and complementary embodied intelligence pip
 
 ### 1. Vision–Language Model (VLM) Pipeline
 
-<video src="videos/vlm.mp4"
-       controls
-       muted
-       loop
-       playsinline
-       style="max-width: 100%; border-radius: 8px;">
+<video controls muted style="max-width:100%; border-radius:8px;">
+  <source src="https://github.com/hkclr-manipulation-group/embodied-ai-on-dual-arm-v1/blob/main/videos/vlm.mp4" type="video/mp4">
 </video>
 
 The **VLM pipeline** focuses on **long-horizon, semantically guided tasks**, such as **desktop organization**.
@@ -47,12 +43,8 @@ This pipeline emphasizes **semantic understanding, task decomposition, and inter
 
 ### 2. Vision–Language–Action (VLA) Pipeline
 
-<video src="videos/vla.mp4"
-       controls
-       muted
-       loop
-       playsinline
-       style="max-width: 100%; border-radius: 8px;">
+<video controls muted style="max-width:100%; border-radius:8px;">
+  <source src="https://github.com/hkclr-manipulation-group/embodied-ai-on-dual-arm-v1/blob/main/videos/vla.mp4" type="video/mp4">
 </video>
 
 The **VLA pipeline** targets **dynamic object manipulation**, such as **real-time object grasping and interaction**.
